@@ -1,8 +1,10 @@
 title: kadiri world
 author: KADIRI ABDULKADIR AIYEGBENI
+theme:minima
 email: kadiriaiyegbenia@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   an  educative filled with smorgasbord tech stories 
+  
 
 # social links
 twitter_username: https://twitter.com/kadiri a**a # DO NOT include the @ character, or else the build will fail!
