@@ -3,7 +3,7 @@ author: KADIRI ABDULKADIR AIYEGBENI
 email: kadiriaiyegbenia@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   an  educative filled with smorgasbord tech stories 
-theme: minima 
+theme:  to minima 
 
 # social links
 twitter_username: https://twitter.com/kadiri a**a # DO NOT include the @ character, or else the build will fail!
